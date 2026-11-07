@@ -118,7 +118,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 - **Lösung:** Den einen Engpass finden, die wenigen entscheidenden Hebel setzen und mit dem Team umsetzen, bis sich im Alltag etwas verändert hat.
 
 ### 3. Avatar-Sätze
-Aus „Zielgruppe & Markt“ v1.1 (Deine freigegebene Unterlage). **[DU: um echte Sätze aus Gesprächen ergänzen]**
+Aus „Zielgruppe & Markt“ v1.1 (geprüft 07.11.2026).
 - **Probleme**
   - „Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.“
   - „Wir arbeiten viel, aber die Ergebnisse wachsen nicht im gleichen Tempo.“
@@ -221,7 +221,7 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 | Was kostet der Engpass-Check? | Nichts. 30 Minuten, kostenlos, ohne Folien. |
 | Was passiert im Engpass-Check? | Michael stellt Fragen, Du bekommst eine klare Einschätzung, welcher Engpass Euer Wachstum gerade am stärksten bremst und welcher Hebel als Nächstes zählt. Kein Pitch, keine Folien. Nach der Buchung kommen 3 kurze Fragen per E-Mail, 5 Minuten Nachdenken, keine schriftlichen Antworten. |
 | Was kommt danach? | Nur wenn es passt, ein weiterer gemeinsamer Schritt. Sieht Michael keinen sinnvollen nächsten Schritt, sagt er das klar. |
-| Was kostet eine Zusammenarbeit? | **[DU]** Grobe Spanne oder „hängt vom Engpass ab, besprechen wir im Engpass-Check“. Bekannt: Marktchancen-Radar 97 € (30 Min. live). Deep Dives: Preis **[DU]**. |
+| Was kostet eine Zusammenarbeit? | Das hängt vom Engpass ab und wird im Engpass-Check besprochen. Keine Preise nennen. Einzige Ausnahme: Marktchancen-Radar, 97 €, 30 Min. live. |
 | Wie lange dauert eine Zusammenarbeit? | In den dokumentierten Fällen 4–6 Monate. |
 | Wer ist Michael? | Dipl.-Ing. Technische Physik, MBA Vertriebsmanagement. 20 Jahre B2B-Vertrieb und Führung in der Industrie, zuletzt stellvertretende Vertriebsleitung EU bei IPG Photonics mit über 300 Mio. € Umsatzverantwortung. |
 
