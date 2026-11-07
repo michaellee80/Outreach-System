@@ -87,8 +87,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 
 ## Teil C – Briefing Agent A
 - **Kostenfreies Angebot:** 5 Warnsignale für tote Deals
-- **Teilbares Ergebnis:** https://drive.google.com/file/d/1NG8aztAZrFVolBqsHvlIPXyI4XVvcf1A/view?usp=drive_link
-  ⚠️ Freigabe in Google Drive auf „Jeder mit dem Link · Betrachter“ stellen (Stand 07.11.2026: nur Domain timesaver-business.coach) (geht bei positiver Antwort direkt mit zwei Terminvorschlägen raus)
+- **Teilbares Ergebnis:** https://drive.google.com/file/d/1NG8aztAZrFVolBqsHvlIPXyI4XVvcf1A/view?usp=drive_link (öffentlich, Betrachter, geprüft 07.11.2026)
 - **Hauptproblem:** Volle Pipeline, aber Angebote werden nicht entschieden
 - **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
   *Siezt die Person in ihren Beiträgen oder im Profil, dann Sie (Regel aus nachrichten.md). [PRÜFEN: Kann inDeal das automatisch? Sonst diese Kontakte von Hand anschreiben.]*
@@ -166,8 +165,7 @@ Aus „Zielgruppe & Markt“ v1.1 (geprüft 07.11.2026).
 ## Teil C – Briefing Agent B
 - **Kostenfreies Angebot:** 3 Fragen, die Deinen Engpass eingrenzen
 - ⚠️ **Doppelung:** Dieselben 3 Fragen kommen nach der Buchung noch einmal per Calendly-Mail. Lösung offen (eigener Calendly-Termin für Agent B oder neue Vorbereitungsfragen).
-- **Teilbares Ergebnis:** https://drive.google.com/file/d/1zzQFJi0vE-MprVeZoB7gG9uk3mxZW4z-/view?usp=drive_link
-  ⚠️ Freigabe in Google Drive auf „Jeder mit dem Link · Betrachter“ stellen (Stand 07.11.2026: nur Domain timesaver-business.coach)
+- **Teilbares Ergebnis:** https://drive.google.com/file/d/1zzQFJi0vE-MprVeZoB7gG9uk3mxZW4z-/view?usp=drive_link (öffentlich, Betrachter, geprüft 07.11.2026)
 - **Hauptproblem:** Immer mehr Entscheidungen landen wieder beim Geschäftsführer
 - **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
 
