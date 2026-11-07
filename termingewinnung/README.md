@@ -32,4 +32,4 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 - Tracking der Kennzahlen
 - N2 und Info-Text: „15 direkte Reports“ vs. BRAND-SYSTEM „20 Reports“ (IPG) klären
 - N3 und N4: Mehrwert-Asset fehlt noch
-- linkedin-brand an neue Zielgruppe anpassen (BRAND-SYSTEM, Headline, Fokus-Beitrag nennen noch „ab 30 MA“)
+- linkedin-brand: Zielgruppe korrigiert (Zweig claude/trusting-dijkstra-rxer2m), muss noch in die Hauptversion übernommen werden
