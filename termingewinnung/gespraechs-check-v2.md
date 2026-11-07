@@ -183,7 +183,7 @@ Calendly: „Engpass-Check: Welche zwei Stellschrauben bei Euch wirken“ → [C
 > Wer nicht alle kennt, verliert. Unabhängig vom Preis.
 >
 > **Aus der Praxis**
-> Bei einem Engineering-Unternehmen haben wir gemeinsam geprüft, welche Angebote wirklich abschlussfähig sind und wo Entscheider fehlen. Nach vier Monaten wurde mehr als jedes zweite Angebot zum Auftrag. **[PRÜFEN: Ablauf so korrekt beschrieben? Beleg: Angebot-zu-Auftrag über 50 % in 4 Monaten, Proof v2.1]**
+> Bei einem Maschinenbauer haben wir gemeinsam geprüft, welche Angebote wirklich abschlussfähig sind und wo Entscheider fehlen. Nach vier Monaten wurde mehr als jedes zweite Angebot zum Auftrag. **[PRÜFEN: Ablauf so korrekt beschrieben? Beleg: Angebot-zu-Auftrag über 50 % in 4 Monaten, Proof v2.1]**
 >
 > **Was Du heute noch tun kannst**
 > Nimm Eure drei größten offenen Angebote. Schreib zu jedem die Person auf, die das Budget freigibt.
@@ -221,7 +221,7 @@ Calendly: „Engpass-Check: Wo die Lücke zwischen Anspruch und Umsetzung liegt�
 | v1 | v2 | Quelle |
 |---|---|---|
 | Maschinenbauer, Team gab unter Druck nach (ohne Zahl) | Laser-Hersteller: 200 → 20 Verkaufschancen, 13 % → über 50 %, Forecast über 80 %, 6 Monate | Proof v2.1 (Fluence, anonym wie im Banner) |
-| Tech-Unternehmen, 10 Vertriebler, günstigster Anbieter (ohne Zahl) | Engineering-Unternehmen: Angebot-zu-Auftrag über 50 % in 4 Monaten | Proof v2.1 (LASCAM, anonym wie in Fokus-Karte Deal-Steuerung) |
+| Tech-Unternehmen, 10 Vertriebler, günstigster Anbieter (ohne Zahl) | Maschinenbauer: Angebot-zu-Auftrag über 50 % in 4 Monaten | Proof v2.1 (LASCAM, anonym als Maschinenbauer) |
 | Technologie-Distributor | bleibt | bestätigt von Michael 07.11.2026 |
 | Gartner: 6,8 Personen (2015) → über 8 (2025) | Gartner: über 5 Beteiligte → unter 31 % · Forrester 2024: 13 Beteiligte | freigegebene Zahlen laut UPDATE-gespraechs-check.md |
 

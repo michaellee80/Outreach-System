@@ -19,10 +19,10 @@ Quelle: Proof & Enablement v2.1 (09.09.2026) und BRAND-SYSTEM.md. Das Original-P
 - Hebel: nicht mehr Aktivität, sondern frühere Qualifizierung
 - Satz: „Bei einem Laser-Hersteller stieg die Quote von Angebot zu Auftrag in sechs Monaten von 13 % auf über 50 %.“
 
-### Engineering-Unternehmen
+### Maschinenbauer
 - Zeitraum: 4 Monate
 - Angebot-zu-Auftrag: über 50 %
-- Satz: „Bei einem Engineering-Unternehmen wurde nach vier Monaten mehr als jedes zweite Angebot zum Auftrag.“
+- Satz: „Bei einem Maschinenbauer wurde nach vier Monaten mehr als jedes zweite Angebot zum Auftrag.“
 
 ### Technologie-Distributor (30 Vertriebsmitarbeitende)
 - Ausgangslage: Aufträge gingen Quartal für Quartal in der Angebotsphase verloren. Das Team sprach nur über Produktmerkmale, nie über den wirtschaftlichen und persönlichen Nutzen für den Kunden.

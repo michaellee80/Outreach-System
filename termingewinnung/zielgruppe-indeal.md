@@ -67,7 +67,7 @@ Vorschläge auf Basis Deiner Content-Unterlagen:
 | Kunde | Ergebnis | Zahl | Zeitraum | Satz für die Nachricht |
 |---|---|---|---|---|
 | Laser-Hersteller (ca. 60 MA) | höhere Abschlussquote, fokussierte Pipeline, verlässlicher Forecast | Angebot-zu-Auftrag 13 % → über 50 % · 200 → 20 Verkaufschancen · Forecast über 80 % | 6 Monate | „Bei einem Laser-Hersteller stieg die Quote von Angebot zu Auftrag in sechs Monaten von 13 % auf über 50 %. Der Hebel war nicht mehr Aktivität, sondern frühere Qualifizierung.“ |
-| Engineering-Unternehmen | höhere Abschlussquote | Angebot-zu-Auftrag über 50 % | 4 Monate | „Bei einem Engineering-Unternehmen wurde nach vier Monaten mehr als jedes zweite Angebot zum Auftrag.“ |
+| Maschinenbauer | höhere Abschlussquote | Angebot-zu-Auftrag über 50 % | 4 Monate | „Bei einem Maschinenbauer wurde nach vier Monaten mehr als jedes zweite Angebot zum Auftrag.“ |
 | Sales Manager (öffentliches Testimonial, Markus Berger) | kürzere Projektlaufzeit | 2 statt 6–12 Monate | – | „Ein Sales Manager schreibt: Projekte abgeschlossen in 2 Monaten statt 6–12 Monaten.“ |
 
 ### 5. Aha-Messaging
@@ -89,7 +89,8 @@ Vorschläge auf Basis Deiner Content-Unterlagen:
 
 ## Teil C – Briefing Agent A
 - **Kostenfreies Angebot:** 5 Warnsignale für tote Deals
-- **Teilbares Ergebnis:** **[DU: öffentlicher Link zum PDF]** (geht bei positiver Antwort direkt mit zwei Terminvorschlägen raus)
+- **Teilbares Ergebnis:** https://drive.google.com/file/d/1NG8aztAZrFVolBqsHvlIPXyI4XVvcf1A/view?usp=drive_link
+  ⚠️ Freigabe in Google Drive auf „Jeder mit dem Link · Betrachter“ stellen (Stand 07.11.2026: nur Domain timesaver-business.coach) (geht bei positiver Antwort direkt mit zwei Terminvorschlägen raus)
 - **Hauptproblem:** Volle Pipeline, aber Angebote werden nicht entschieden
 - **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
   *Siezt die Person in ihren Beiträgen oder im Profil, dann Sie (Regel aus nachrichten.md). [PRÜFEN: Kann inDeal das automatisch? Sonst diese Kontakte von Hand anschreiben.]*
@@ -166,7 +167,8 @@ Aus „Zielgruppe & Markt“ v1.1 (Deine freigegebene Unterlage). **[DU: um echt
 
 ## Teil C – Briefing Agent B
 - **Kostenfreies Angebot:** 3 Fragen, die Deinen Engpass eingrenzen
-- **Teilbares Ergebnis:** **[DU: öffentlicher Link zum PDF]**
+- **Teilbares Ergebnis:** https://drive.google.com/file/d/1zzQFJi0vE-MprVeZoB7gG9uk3mxZW4z-/view?usp=drive_link
+  ⚠️ Freigabe in Google Drive auf „Jeder mit dem Link · Betrachter“ stellen (Stand 07.11.2026: nur Domain timesaver-business.coach)
 - **Hauptproblem:** Immer mehr Entscheidungen landen wieder beim Geschäftsführer
 - **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
 
@@ -190,7 +192,7 @@ Kurzfassung, Ausbau erst nach den Testergebnissen von Gesprächs-Check v2:
 - Kurze Sätze. Unter 80 Wörter pro Nachricht. Eine Frage pro Nachricht.
 - Kundenergebnisse immer einem konkreten Fall zuordnen, nie als Versprechen. Nie behaupten, dass Ergebnisse bei jedem Kunden so eintreten.
 - Externe Zahlen nur: Gartner (über 5 Entscheider → Abschlusswahrscheinlichkeit unter 31 %), Forrester 2024 (13 Beteiligte), 6Sense 2025 (ca. 10 Personen).
-- Kundennamen nie nennen. Nur „ein Laser-Hersteller“, „ein Engineering-Unternehmen“, „ein Technologie-Distributor“.
+- Kundennamen nie nennen. Nur „ein Laser-Hersteller“, „ein Maschinenbauer“, „ein Technologie-Distributor“.
 - Verbotene Wörter: Mindset, Transformation, Potenzial entfalten, Vision, Empowerment, Funnel, Value Proposition, Coaching.
 - Michael ist kein Coach und kein Trainer, sondern Sparringspartner. Nie Trainings oder Seminare anbieten.
 - Nicht diskutieren, nicht überreden. Bei Einwänden eine Frage stellen, die die Perspektive verschiebt.
