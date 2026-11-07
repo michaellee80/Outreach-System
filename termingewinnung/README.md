@@ -64,7 +64,7 @@ inDeal erlaubt **genau ein kostenfreies Angebot je Agent**. Start mit zwei Agent
 | A · Vertriebsleitung (CSO, VP Sales, Vertriebsleiter) | N1 | 5 Warnsignale | PDF, braucht öffentlichen Link |
 | B · Geschäftsführung (GF, CEO, Inhaber) | N2 | 3 Engpass-Fragen | PDF, braucht öffentlichen Link |
 N4 + Gesprächs-Check kommen erst in einen Agenten, wenn der Check nachweislich ausgefüllt wird.
-Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird als `zielgruppe-indeal.md` vorausgefüllt.
+Arbeitsblatt (vorausgefüllt, mit [DU]/[PRÜFEN]-Stellen): [zielgruppe-indeal.md](zielgruppe-indeal.md) · Datei für die Agenten-Quellen: [agent-wissen/referenzen.md](agent-wissen/referenzen.md)
 
 ## Was schon steht
 - Profil umgestellt (Banner, Info, siehe [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md))
@@ -74,7 +74,8 @@ Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird a
 - Markenregeln und Belege: [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)
 
 ## Offen
-- Zielkunden-Liste / Suchkriterien im Werkzeug
+- Zielkunden-Liste: Lead-Listen im Sales Navigator anlegen (Filter in zielgruppe-indeal.md)
+- Arbeitsblatt: [DU]- und [PRÜFEN]-Stellen ausfüllen (Websites, PDF-Links, Avatar-Sätze, Preise, Ablauf Engpass-Check)
 - Tracking der Kennzahlen
 - LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
 - N3: Mehrwert-Asset fehlt noch
