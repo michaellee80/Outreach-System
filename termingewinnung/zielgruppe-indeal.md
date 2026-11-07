@@ -218,8 +218,8 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 | Frage | Antwort |
 |---|---|
 | Was kostet der Engpass-Check? | Nichts. 30 Minuten, kostenlos, ohne Folien. |
-| Was passiert im Engpass-Check? | Nach der Buchung kommen ein paar kurze Fragen zur Vorbereitung. Im Gespräch schauen wir gemeinsam, wo es gerade bremst: Vertrieb, Organisation oder Umsetzung. Am Ende steht die eine Stelle, die am meisten kostet, und ein klarer nächster Schritt. |
-| Was kommt danach? | Nur wenn es passt: ein Vorschlag für die Zusammenarbeit. Kein Muss. |
+| Was passiert im Engpass-Check? | Michael stellt Fragen, Du bekommst eine klare Einschätzung, welcher Engpass Euer Wachstum gerade am stärksten bremst und welcher Hebel als Nächstes zählt. Kein Pitch, keine Folien. Nach der Buchung kommen 3 kurze Fragen per E-Mail, 5 Minuten Nachdenken, keine schriftlichen Antworten. |
+| Was kommt danach? | Nur wenn es passt, ein weiterer gemeinsamer Schritt. Sieht Michael keinen sinnvollen nächsten Schritt, sagt er das klar. |
 | Was kostet eine Zusammenarbeit? | **[DU]** Grobe Spanne oder „hängt vom Engpass ab, besprechen wir im Engpass-Check“. Bekannt: Marktchancen-Radar 97 € (30 Min. live). Deep Dives: Preis **[DU]**. |
 | Wie lange dauert eine Zusammenarbeit? | In den dokumentierten Fällen 4–6 Monate. |
 | Wer ist Michael? | Dipl.-Ing. Technische Physik, MBA Vertriebsmanagement. 20 Jahre B2B-Vertrieb und Führung in der Industrie, zuletzt stellvertretende Vertriebsleitung EU bei IPG Photonics mit über 300 Mio. € Umsatzverantwortung. |
@@ -230,11 +230,21 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 - Leadgenerierung oder Terminierung als Dienstleistung
 - Arbeit mit Startups in der Frühphase oder Einzelunternehmern ohne Team
 
-## Ablauf des Engpass-Checks (für Terminbestätigungen, geprüft 07.11.2026)
-1. Nach der Buchung: kurze Vorbereitungsfragen (3 Fragen oder Kurz-Fragebogen, 4 Minuten). Freiwillig, der Termin steht auch ohne.
-2. Du erzählst kurz, wo Ihr steht und was Dich gerade am meisten beschäftigt.
-3. Wir grenzen ein, wo der Engpass liegt: im Vertrieb, in der Organisation oder in der Umsetzung.
-4. Du gehst mit der einen Stelle raus, die Euch gerade am meisten kostet, und einem nächsten Schritt.
+## Ablauf des Engpass-Checks (Text der Calendly-Buchungsseite, Stand 07.11.2026)
+```text
+Was in diesen 30 Minuten passiert:
+Ich stelle Dir Fragen. Du bekommst eine klare Einschätzung, welcher Engpass Dein Wachstum aktuell am stärksten bremst und welcher Hebel als Nächstes zählt.
+Kein Pitch. Keine Folien. Kein Beratungstheater. Nur ein ehrliches Gespräch über Deine aktuelle Situation.
+
+Was Du danach weißt:
+- Wo aus meiner Sicht der entscheidende Engpass sitzt.
+- Warum er bisher wahrscheinlich nicht gelöst wurde.
+- Welcher nächste Schritt sinnvoll wäre.
+- Und ob ein weiterer gemeinsamer Schritt überhaupt passt.
+Wenn ich keinen sinnvollen nächsten Schritt sehe, sage ich Dir das klar.
+
+Vorbereitung: Du bekommst nach der Buchung 3 kurze Fragen per E-Mail. Keine schriftlichen Antworten nötig. Nur 5 Minuten Nachdenken.
+```
 
 ---
 
