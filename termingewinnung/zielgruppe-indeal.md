@@ -4,7 +4,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 
 **Legende**
 - **[DU]** = nur Du kennst die Antwort, bitte ergänzen
-- **[PRÜFEN]** = Vorschlag von mir, bitte bestätigen oder ändern
+- = Vorschlag von mir, bitte bestätigen oder ändern
 - Alles andere stammt aus Deinen freigegebenen Unterlagen.
 
 **So gehst Du vor:** Pro Agent Teil A Schritt für Schritt in inDeal eintragen (Agent › Zielgruppe), jeden Schritt speichern. Teil B gilt für beide Agenten. Teil C kommt ins Briefing (Agent › Reiter Kampagne › Zahnrad).
@@ -129,7 +129,7 @@ Aus „Zielgruppe & Markt“ v1.1 (Deine freigegebene Unterlage). **[DU: um echt
 - **Fragen**
   - „Wie stabil ist unser Geschäftsmodell wirklich?“
   - „Vielleicht müssen wir unsere Struktur überdenken?“
-  - „Liegt es am Vertrieb oder an uns?“ **[PRÜFEN]**
+  - „Liegt es am Vertrieb oder an uns?“
 - **Wunschergebnisse**
   - „Ein Unternehmen, das auch ohne mich läuft.“
   - „Umsatz und Marge, die planbar sind statt zufällig.“
@@ -218,23 +218,23 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 | Frage | Antwort |
 |---|---|
 | Was kostet der Engpass-Check? | Nichts. 30 Minuten, kostenlos, ohne Folien. |
-| Was passiert im Engpass-Check? | **[PRÜFEN]** Wir schauen gemeinsam, wo es gerade bremst: Vertrieb, Organisation oder Umsetzung. Am Ende steht die eine Stelle, die am meisten kostet, und ein klarer nächster Schritt. |
-| Was kommt danach? | **[PRÜFEN]** Nur wenn es passt: ein Vorschlag für die Zusammenarbeit. Kein Muss. |
+| Was passiert im Engpass-Check? | Nach der Buchung kommen ein paar kurze Fragen zur Vorbereitung. Im Gespräch schauen wir gemeinsam, wo es gerade bremst: Vertrieb, Organisation oder Umsetzung. Am Ende steht die eine Stelle, die am meisten kostet, und ein klarer nächster Schritt. |
+| Was kommt danach? | Nur wenn es passt: ein Vorschlag für die Zusammenarbeit. Kein Muss. |
 | Was kostet eine Zusammenarbeit? | **[DU]** Grobe Spanne oder „hängt vom Engpass ab, besprechen wir im Engpass-Check“. Bekannt: Marktchancen-Radar 97 € (30 Min. live). Deep Dives: Preis **[DU]**. |
-| Wie lange dauert eine Zusammenarbeit? | In den dokumentierten Fällen 4–6 Monate. **[PRÜFEN]** |
+| Wie lange dauert eine Zusammenarbeit? | In den dokumentierten Fällen 4–6 Monate. |
 | Wer ist Michael? | Dipl.-Ing. Technische Physik, MBA Vertriebsmanagement. 20 Jahre B2B-Vertrieb und Führung in der Industrie, zuletzt stellvertretende Vertriebsleitung EU bei IPG Photonics mit über 300 Mio. € Umsatzverantwortung. |
 
-## Was wir NICHT anbieten **[PRÜFEN]**
+## Was wir NICHT anbieten
 - Klassische Vertriebstrainings oder Seminare
 - Strategie-Workshops ohne Umsetzung
 - Leadgenerierung oder Terminierung als Dienstleistung
 - Arbeit mit Startups in der Frühphase oder Einzelunternehmern ohne Team
 
-## Ablauf des Engpass-Checks (für Terminbestätigungen)
-**[PRÜFEN]**
-1. Du erzählst kurz, wo Ihr steht und was Dich gerade am meisten beschäftigt.
-2. Wir grenzen ein, wo der Engpass liegt: im Vertrieb, in der Organisation oder in der Umsetzung.
-3. Du gehst mit der einen Stelle raus, die Euch gerade am meisten kostet, und einem nächsten Schritt.
+## Ablauf des Engpass-Checks (für Terminbestätigungen, geprüft 07.11.2026)
+1. Nach der Buchung: kurze Vorbereitungsfragen (3 Fragen oder Kurz-Fragebogen, 4 Minuten). Freiwillig, der Termin steht auch ohne.
+2. Du erzählst kurz, wo Ihr steht und was Dich gerade am meisten beschäftigt.
+3. Wir grenzen ein, wo der Engpass liegt: im Vertrieb, in der Organisation oder in der Umsetzung.
+4. Du gehst mit der einen Stelle raus, die Euch gerade am meisten kostet, und einem nächsten Schritt.
 
 ---
 
