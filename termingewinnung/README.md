@@ -74,6 +74,7 @@ Arbeitsblatt (vorausgefüllt, mit [DU]/[PRÜFEN]-Stellen): [zielgruppe-indeal.md
 - Markenregeln und Belege: [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)
 
 ## Offen
+- Später: eigene Calendly-Kopie für Agent B (die 3 Fragen kämen sonst doppelt), Bestätigungs-Mail anpassen
 - Zielkunden-Liste: Lead-Listen im Sales Navigator anlegen (Filter in zielgruppe-indeal.md)
 - Arbeitsblatt: [DU]- und [PRÜFEN]-Stellen ausfüllen (Websites, PDF-Links, Avatar-Sätze, Preise, Ablauf Engpass-Check)
 - Tracking der Kennzahlen
