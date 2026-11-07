@@ -27,9 +27,9 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 
 ## Offen
 - Zielkunden-Liste / Suchkriterien im Werkzeug
-- Werkzeug (Sales Navigator, inDeal o. ä.)
+- Werkzeug: Sales Navigator (Suche, Listen) + inDeal (Nachrichten, Nachfassen) vorhanden, Zusammenspiel festlegen
 - Wochenziel: Vernetzungen, Nachrichten, Termine
 - Tracking der Kennzahlen
-- N2 und Info-Text: „15 direkte Reports“ vs. BRAND-SYSTEM „20 Reports“ (IPG) klären
+- LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
 - N3 und N4: Mehrwert-Asset fehlt noch
 - linkedin-brand: Zielgruppe korrigiert (Zweig claude/trusting-dijkstra-rxer2m), muss noch in die Hauptversion übernommen werden
