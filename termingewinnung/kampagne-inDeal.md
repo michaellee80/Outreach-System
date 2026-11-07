@@ -87,6 +87,27 @@ Ich arbeite mit Geschäftsführern in Produktion und Logistik, und ein Satz fäl
 Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
 ```
 
+### Videobotschaft (optional, ca. 45 Sekunden)
+Hochformat, Blick in die Kamera, am Schreibtisch, Licht von vorne (Fenster). Sofort mit dem ersten Satz anfangen. Untertitel einblenden, viele schauen ohne Ton.
+
+**Agent A · Vertriebsleitung (bestehende Kontakte)**
+```text
+Hallo, Michael Lee hier. Wir sind ja schon eine Weile vernetzt, deshalb einfach mal kurz persönlich.
+Ich höre gerade von vielen Vertriebsleitern in der Industrie dasselbe: Die Pipeline ist voll. Die Angebote gehen raus. Und dann passiert nichts.
+Meistens liegt das nicht am Preis und nicht am Team. Sondern daran, dass zu viele Angebote im Spiel sind, die nie entschieden werden.
+Bei einem Laser-Hersteller haben wir die Pipeline von 200 auf 20 echte Verkaufschancen fokussiert. In sechs Monaten stieg die Quote von Angebot zu Auftrag von 13 auf über 50 Prozent.
+Ich habe die 5 Warnsignale zusammengefasst, an denen man solche Angebote früh erkennt. Wenn Du sie haben willst, schreib mir einfach ein kurzes Ja. Bis bald.
+```
+
+**Agent B · Geschäftsführung (neue Kontakte)**
+```text
+Hallo, Michael Lee hier. Danke fürs Vernetzen.
+Einen Satz höre ich von Geschäftsführern in Produktion und Logistik immer wieder: Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.
+Und oft landen dann immer mehr Entscheidungen wieder beim Chef.
+Das ist selten ein Führungsproblem. Meist ist es ein Engpass in der Struktur. Ich kenne das von innen: Ich hatte selbst 15 direkte Reports und war der Engpass.
+Ich habe 3 Fragen aufgeschrieben, mit denen Du Deinen Engpass in 10 Minuten eingrenzt. Wenn Du sie willst, schreib mir einfach ein kurzes Ja. Bis bald.
+```
+
 ### Nachfassen
 1. **Bump** nach 2–3 Tagen ohne Antwort: `{Vorname}? 🙂`
 2. **Follow-up mit neuem Gedanken** nach weiteren 3–4 Tagen:
