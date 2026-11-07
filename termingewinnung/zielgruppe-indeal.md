@@ -22,10 +22,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 ## Teil A – Die 7 Schritte
 
 ### 1. Quellen
-- **Websites** (bis zu 5) **[DU]**: welche Unterseiten von michaellee.de? Vorschlag:
-  - https://michaellee.de/ (Startseite)
-  - https://michaellee.de/deep-dive/ (Deal-Steuerung)
-  - Unterseite Engpass-Check, falls vorhanden
+- **Websites:** https://michaellee.de/engpass-check/
 - **Dateien** (bis zu 5):
   - `agent-wissen/referenzen.md` (bereinigte Belege, siehe dort. **Nicht** das Proof-Dokument hochladen)
   - `5-warnsignale.pdf`
@@ -43,8 +40,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 - **Problem:** Die Pipeline ist voll, aber Angebote werden nicht entschieden, und der Forecast ist unzuverlässig.
 - **Lösung:** Früher qualifizieren und das Team auf die wenigen echten Verkaufschancen fokussieren, statt mehr Aktivität zu erzeugen.
 
-### 3. Avatar-Sätze **[DU: durch Sätze ersetzen, die Du wirklich gehört hast]**
-Vorschläge auf Basis Deiner Content-Unterlagen:
+### 3. Avatar-Sätze (geprüft 07.11.2026)
 - **Probleme**
   - „Wir haben genug Angebote draußen, aber keiner entscheidet.“
   - „Unser Forecast ist eher Hoffnung als Planung.“
@@ -62,6 +58,8 @@ Vorschläge auf Basis Deiner Content-Unterlagen:
   - „Wir brauchen kein weiteres Sales-Training.“
   - „Mein Team ist schon voll ausgelastet.“
   - „Noch ein Berater bringt uns wahrscheinlich auch nicht weiter.“
+  - „Aktuell nicht mein Thema.“
+  - „Wir sind gut aufgestellt.“
 
 ### 4. Referenzen
 | Kunde | Ergebnis | Zahl | Zeitraum | Satz für die Nachricht |
@@ -102,7 +100,7 @@ Vorschläge auf Basis Deiner Content-Unterlagen:
 ## Teil A – Die 7 Schritte
 
 ### 1. Quellen
-- **Websites [DU]:** wie Agent A, dazu die Unterseite zu Deinem Ansatz oder Über mich, falls vorhanden
+- **Websites:** https://michaellee.de/engpass-check/
 - **Dateien:**
   - `agent-wissen/referenzen.md`
   - `3-engpass-fragen.pdf`
@@ -167,6 +165,7 @@ Aus „Zielgruppe & Markt“ v1.1 (Deine freigegebene Unterlage). **[DU: um echt
 
 ## Teil C – Briefing Agent B
 - **Kostenfreies Angebot:** 3 Fragen, die Deinen Engpass eingrenzen
+- ⚠️ **Doppelung:** Dieselben 3 Fragen kommen nach der Buchung noch einmal per Calendly-Mail. Lösung offen (eigener Calendly-Termin für Agent B oder neue Vorbereitungsfragen).
 - **Teilbares Ergebnis:** https://drive.google.com/file/d/1zzQFJi0vE-MprVeZoB7gG9uk3mxZW4z-/view?usp=drive_link
   ⚠️ Freigabe in Google Drive auf „Jeder mit dem Link · Betrachter“ stellen (Stand 07.11.2026: nur Domain timesaver-business.coach)
 - **Hauptproblem:** Immer mehr Entscheidungen landen wieder beim Geschäftsführer
@@ -212,6 +211,8 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 | „Wir haben eigentlich gute Leute.“ | „Davon gehe ich aus. Die Frage ist meist, ob das System sie gut arbeiten lässt.“ |
 | „Wir müssen einfach den Vertrieb verbessern.“ | „Wenn Ihr morgen doppelt so viele Anfragen hättet: Könnte Euer Team sie sauber bearbeiten?“ |
 | „Wir brauchen eher eine neue Strategie.“ | „Welche Strategie habt Ihr vor zwei Jahren beschlossen, und wie viel davon ist heute umgesetzt?“ |
+| „Aktuell nicht mein Thema.“ | „Alles klar, danke für die ehrliche Antwort. Darf ich fragen, was gerade Thema Nummer eins bei Euch ist?“ (danach nicht nachhaken) |
+| „Wir sind gut aufgestellt.“ | „Freut mich. Woran merkt Ihr das am deutlichsten: an der Abschlussquote oder am Forecast?“ |
 | „Schick mir mal Infos.“ | Asset schicken, dann: „Bei welchem Punkt bist Du hängen geblieben?“ |
 
 ## FAQ
