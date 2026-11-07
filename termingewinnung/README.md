@@ -38,7 +38,7 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 | **N1** Volle Pipeline, keine Aufträge | CSO, VP Sales, Vertriebsleiter | [5 Warnsignale (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/5-warnsignale.pdf) | zwei Zeiten / Calendly allgemein |
 | **N2** Alles landet bei Dir | GF, CEO, Inhaber | [3 Engpass-Fragen (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/3-engpass-fragen.pdf), [Begleittext](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/assets-texte/3-engpass-fragen.md) | zwei Zeiten / Calendly allgemein |
 | **N3** Forecast und Produktion | COO, Produktions-/Logistikleiter | keins (nur „Interessiert Dich …?“) | ruht vorerst |
-| **N4** Preisdruck | GF, Vertriebsleitung | [Gesprächs-Check (Tally, 8 Fragen, 4 Min.)](https://tally.so/r/QK0Bxk), Begleittext in [nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md) | **pausiert**: Check seit März live, ca. 100 Aufrufe, 0 ausgefüllt, 0 Termine. Erst Fragen und Messaging prüfen |
+| **N4** Preisdruck | GF, Vertriebsleitung | [Gesprächs-Check (Tally, 8 Fragen, 4 Min.)](https://tally.so/r/QK0Bxk), Begleittext in [nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md) | **pausiert**: Check seit März live, 90 Aufrufe, 5 abgeschickt, 0 Termine. Neubau: [gespraechs-check-v2.md](gespraechs-check-v2.md) |
 
 ### Gesprächs-Check → Engpass-Check (Calendly je Ergebnis, 30 Min.)
 | Ergebnis | Calendly-Titel |
@@ -79,7 +79,8 @@ Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird a
 - LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
 - N3: Mehrwert-Asset fehlt noch
 - Calendly: 3 Termine je Ergebnis einrichten (Michael), in Tally und Folge-Mails „Wachstumsanalyse“ durch „Engpass-Check“ ersetzen
-- Gesprächs-Check: Fragen und Messaging auf Conversion prüfen (0 von ca. 100 Aufrufen ausgefüllt). Tally fragt E-Mail ab: Wann, vor oder nach dem Ergebnis?
+- Gesprächs-Check: Neubau v2 in Tally einbauen, siehe [gespraechs-check-v2.md](gespraechs-check-v2.md) (v1: 90 Aufrufe, 5 abgeschickt, 0 Termine)
+- Die 4 Personen, die den Check ausgefüllt haben, persönlich anschreiben (Text in gespraechs-check-v2.md, Abschnitt 8)
 - N4: Baustein 3 mit Distributor-Fall statt eigener KAM-Geschichte, zusammen mit dem Check überarbeiten
 - Öffentliche Links für die PDFs 5 Warnsignale und 3 Engpass-Fragen
 - linkedin-brand: Zielgruppe korrigiert (Zweig claude/trusting-dijkstra-rxer2m), muss noch in die Hauptversion übernommen werden
