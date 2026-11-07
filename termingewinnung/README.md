@@ -15,21 +15,72 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 1. **Zielkunden finden** – nach den Kriterien oben
 2. **Vernetzen** – Anfrage ohne Notiz
 3. **Erstnachricht** – N1–N4 je Persona ([nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md), gebaut nach dem [Nachrichten-Baukasten](https://github.com/michaellee80/linkedin-brand/blob/HEAD/vorlagen/06-nachrichten-baukasten.md))
-4. **Mehrwert nach dem Ja** – [„5 Warnsignale“](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/5-warnsignale.pdf) (N1) bzw. [„3 Engpass-Fragen“](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/3-engpass-fragen.pdf) (N2, [Begleittext](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/assets-texte/3-engpass-fragen.md))
-5. **Termin** – zwei konkrete Zeiten vorschlagen, sonst [Calendly-Link Engpass-Check](https://calendly.com/leeperformance/engpass-check-kostenlos)
+4. **Mehrwert nach dem Ja** – je Nachricht ein Asset, siehe Tabelle unten
+5. **Termin** – Engpass-Check, 30 Min.: bei N1/N2 zwei konkrete Zeiten vorschlagen, sonst [Calendly-Link Engpass-Check](https://calendly.com/leeperformance/engpass-check-kostenlos); bei N4 bucht der Lead nach dem Gesprächs-Check selbst (Calendly je Ergebnis)
 6. **Nachfassen** – „{Vorname}? 🙂“ nach 2–3 Tagen, dann Follow-up mit neuem Gedanken
 
+## Ziel und Taktung (entschieden 07.11.2026)
+- **12 Engpass-Checks pro Monat = 3 pro Woche**
+- **30 Minuten pro Tag** für Michael: Antworten auf ein Ja, Termine, Zahlen. Vernetzen, Erstnachricht und erstes Nachfassen übernimmt der inDeal-Agent.
+- Rückwärts gerechnet (Schätzwerte, nach 2 Wochen mit echten Zahlen prüfen): 100 Anfragen → ca. 35 Kontakte → ca. 9 Ja → ca. 3 Termine pro Woche
+
+## Werkzeuge
+| Werkzeug | Aufgabe |
+|---|---|
+| Sales Navigator | Zielkunden finden, Lead-Listen je Agent |
+| inDeal | Terminagent: Vernetzen, Erstnachricht, Nachfassen, Antworten |
+| Tally | Gesprächs-Check (Freebie zu N4) |
+| Calendly | Engpass-Check buchen (1 allgemeiner Link + 3 Links je Ergebnis im Gesprächs-Check) |
+
+## Nachrichten, Assets und Weg zum Engpass-Check
+| Nachricht | Persona | Asset nach dem Ja | Weg zum Termin |
+|---|---|---|---|
+| **N1** Volle Pipeline, keine Aufträge | CSO, VP Sales, Vertriebsleiter | [5 Warnsignale (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/5-warnsignale.pdf) | zwei Zeiten / Calendly allgemein |
+| **N2** Alles landet bei Dir | GF, CEO, Inhaber | [3 Engpass-Fragen (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/3-engpass-fragen.pdf), [Begleittext](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/assets-texte/3-engpass-fragen.md) | zwei Zeiten / Calendly allgemein |
+| **N3** Forecast und Produktion | COO, Produktions-/Logistikleiter | keins (nur „Interessiert Dich …?“) | ruht vorerst |
+| **N4** Preisdruck | GF, Vertriebsleitung | [Gesprächs-Check (Tally, 8 Fragen, 4 Min.)](https://tally.so/r/QK0Bxk), Begleittext in [nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md) | Lead bucht selbst, Calendly je Ergebnis (siehe unten) |
+
+### Gesprächs-Check → Engpass-Check (Calendly je Ergebnis, 30 Min.)
+| Ergebnis | Calendly-Titel |
+|---|---|
+| 0–6 Punkte „In der Preisfalle“ | Engpass-Check: Wo Eure Gespräche kippen |
+| 7–11 Punkte „Im Niemandsland“ | Engpass-Check: Welche zwei Stellschrauben bei Euch wirken |
+| 12–16 Punkte „Auf dem richtigen Weg“ | Engpass-Check: Wo die Lücke zwischen Anspruch und Umsetzung liegt |
+
+Quelle: [UPDATE-gespraechs-check.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/termingewinnung/UPDATE-gespraechs-check.md), [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md), Posts mit Testplan: [gespraechs-check-posts.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/gespraechs-check-posts.md)
+
+## Regeln für alle Texte und für den Agenten
+- Das kostenlose Gespräch heißt **immer „Engpass-Check“**. Nie „Erstgespräch“, „Kennenlerngespräch“, „Wachstumsanalyse“, „kostenlose Beratung“.
+- **Externe Zahlen nur:** Gartner (über 5 Entscheider → Abschlusswahrscheinlichkeit unter 31 %), Forrester 2024 (13 Beteiligte), 6Sense 2025 (ca. 10 Personen).
+- **Kundenzahlen** immer einem Fall zuordnen, nie als Versprechen (Proof-Regel in [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)).
+- „Aufträge/Abschlüsse“ statt „Deals“ in Texten an Kunden.
+- Du/Dein/Ihr/Euer groß. Siezt die Person selbst, dann Sie.
+- Unter 80 Wörter, nie direkt nach der Vernetzung pitchen, Vernetzung ohne Notiz.
+
+## Agenten in inDeal (Entwurf, Entscheidung offen)
+inDeal erlaubt **genau ein kostenfreies Angebot je Agent**. Daraus folgt ein Agent je Asset:
+| Agent | Nachricht | Angebot | Teilbares Ergebnis |
+|---|---|---|---|
+| A · Vertrieb | N1 | 5 Warnsignale | PDF, braucht öffentlichen Link |
+| B · Geschäftsführung | N2 | 3 Engpass-Fragen | PDF, braucht öffentlichen Link |
+| C · Preisdruck | N4 | Gesprächs-Check | Tally-Link (öffentlich) |
+Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird als `zielgruppe-indeal.md` vorausgefüllt.
+
 ## Was schon steht
-- Profil umgestellt (Banner, Info, Fokus-Bereich mit 5 Karten, siehe [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md))
+- Profil umgestellt (Banner, Info, siehe [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md))
 - 4 Erstnachrichten + Nachfass-Texte
-- 2 Mehrwert-Assets (PDF)
+- 3 Mehrwert-Assets: 2 PDFs (N1, N2) + Gesprächs-Check in Tally (N4)
+- Fokus-Bereich mit 6 Karten (1 Engpass-Check · 2 Gesprächs-Check · 3 Marktchancen-Radar · 4 Deal-Steuerung · 5 Marktentscheidung · 6 Newsletter)
 - Markenregeln und Belege: [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)
 
 ## Offen
 - Zielkunden-Liste / Suchkriterien im Werkzeug
-- Werkzeug: Sales Navigator (Suche, Listen) + inDeal (Nachrichten, Nachfassen) vorhanden, Zusammenspiel festlegen
-- Wochenziel: Vernetzungen, Nachrichten, Termine
 - Tracking der Kennzahlen
 - LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
-- N3 und N4: Mehrwert-Asset fehlt noch
+- N3: Mehrwert-Asset fehlt noch
+- Calendly: 3 Termine je Ergebnis einrichten (Michael), in Tally und Folge-Mails „Wachstumsanalyse“ durch „Engpass-Check“ ersetzen
+- Tally: Wird Name/LinkedIn abgefragt? Sonst lässt sich ein ausgefüllter Check keinem Lead zuordnen
+- Öffentliche Links für die PDFs 5 Warnsignale und 3 Engpass-Fragen
+- N1 und PDF 5 Warnsignale sprechen von „toten Deals“, die neue Regel sagt „Aufträge statt Deals“: klären
+- Agenten: 2 oder 3 zum Start, Abgrenzung zwischen B und C (beide GF)
 - linkedin-brand: Zielgruppe korrigiert (Zweig claude/trusting-dijkstra-rxer2m), muss noch in die Hauptversion übernommen werden
