@@ -30,9 +30,12 @@ inDeal schickt höchstens **20 Vernetzungsanfragen pro Tag und 100 pro Woche, f�
 - **Zielgruppen-Prüfung ansehen:** „Passt nicht“ und „Nicht prüfbar“ stichprobenartig öffnen. Viele „Passt nicht“ heißt: Zielgruppe schärfen.
 - **„Neue Leads übernehmen“: Nach Freigabe**, Autopilot erst nach 2 Wochen ohne Ausreißer.
 
-### Blacklist (Setup › Blacklist) **[DU]**
-Vor dem Start eintragen, bei Firmen immer die **Domain**:
-- Bestehende Kunden (Fluence, LASCAM usw.)
+**Entschieden 07.11.2026:** Agent A startet mit **Bestehenden Kontakten** aus Michaels Netzwerk.
+
+### Blacklist (Setup › Blacklist)
+Vor dem Start eintragen, bei Firmen immer die **Domain**. Vorlage: [agent-wissen/blacklist.csv](agent-wissen/blacklist.csv)
+- Kunden: LASCAM systems, EQ Photonics, AMS, 3D Micromac AG (Domains noch eintragen)
+- Fluence: Kunde laut Proof-Dokument, fehlt in der Liste **[DU: bestätigen]**
 - Die **5 Kunden aus dem Gesprächs-Check-Test**
 - Die **4 Personen, die den alten Gesprächs-Check ausgefüllt haben** (die schreibst Du persönlich an)
 - Partner, Netzwerkpartner, Empfehlungsgeber
@@ -105,7 +108,7 @@ Danach Schluss. Kein drittes Nachfassen.
 | Einstellung | Wert |
 |---|---|
 | Termine: Dauer | 30 Minuten |
-| Termine: Zeitfenster | **[DU]** z. B. Di–Do, 9–12 und 14–17 Uhr |
+| Termine: Zeitfenster | Dienstag 9–12 Uhr und Donnerstag 9–12 Uhr (entschieden 07.11.2026) |
 | Nach positiver Antwort | PDF-Link + zwei konkrete Terminvorschläge (nie nur den Calendly-Link) |
 | Ton | Du-Form, ruhig, kurz, kein Pitch |
 | Grenzen | Keine Preise nennen · Ende nach 2 Einwänden · nie „Erstgespräch“, nur „Engpass-Check“ · keine Kundennamen |
