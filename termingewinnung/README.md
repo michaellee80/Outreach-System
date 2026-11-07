@@ -38,7 +38,7 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 | **N1** Volle Pipeline, keine Aufträge | CSO, VP Sales, Vertriebsleiter | [5 Warnsignale (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/5-warnsignale.pdf) | zwei Zeiten / Calendly allgemein |
 | **N2** Alles landet bei Dir | GF, CEO, Inhaber | [3 Engpass-Fragen (PDF)](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/assets/3-engpass-fragen.pdf), [Begleittext](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/assets-texte/3-engpass-fragen.md) | zwei Zeiten / Calendly allgemein |
 | **N3** Forecast und Produktion | COO, Produktions-/Logistikleiter | keins (nur „Interessiert Dich …?“) | ruht vorerst |
-| **N4** Preisdruck | GF, Vertriebsleitung | [Gesprächs-Check (Tally, 8 Fragen, 4 Min.)](https://tally.so/r/QK0Bxk), Begleittext in [nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md) | Lead bucht selbst, Calendly je Ergebnis (siehe unten) |
+| **N4** Preisdruck | GF, Vertriebsleitung | [Gesprächs-Check (Tally, 8 Fragen, 4 Min.)](https://tally.so/r/QK0Bxk), Begleittext in [nachrichten.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/nachrichten.md) | **pausiert**: Check seit März live, ca. 100 Aufrufe, 0 ausgefüllt, 0 Termine. Erst Fragen und Messaging prüfen |
 
 ### Gesprächs-Check → Engpass-Check (Calendly je Ergebnis, 30 Min.)
 | Ergebnis | Calendly-Titel |
@@ -53,17 +53,17 @@ Quelle: [UPDATE-gespraechs-check.md](https://github.com/michaellee80/linkedin-br
 - Das kostenlose Gespräch heißt **immer „Engpass-Check“**. Nie „Erstgespräch“, „Kennenlerngespräch“, „Wachstumsanalyse“, „kostenlose Beratung“.
 - **Externe Zahlen nur:** Gartner (über 5 Entscheider → Abschlusswahrscheinlichkeit unter 31 %), Forrester 2024 (13 Beteiligte), 6Sense 2025 (ca. 10 Personen).
 - **Kundenzahlen** immer einem Fall zuordnen, nie als Versprechen (Proof-Regel in [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)).
-- „Aufträge/Abschlüsse“ statt „Deals“ in Texten an Kunden.
+- „Aufträge/Abschlüsse“ statt „Deals“ in Texten an Kunden. **Ausnahme (entschieden 07.11.2026):** N1 und PDF „5 Warnsignale für tote Deals“ bleiben, das ist die Sprache der Vertriebsleiter.
 - Du/Dein/Ihr/Euer groß. Siezt die Person selbst, dann Sie.
 - Unter 80 Wörter, nie direkt nach der Vernetzung pitchen, Vernetzung ohne Notiz.
 
-## Agenten in inDeal (Entwurf, Entscheidung offen)
-inDeal erlaubt **genau ein kostenfreies Angebot je Agent**. Daraus folgt ein Agent je Asset:
+## Agenten in inDeal (entschieden 07.11.2026)
+inDeal erlaubt **genau ein kostenfreies Angebot je Agent**. Start mit zwei Agenten:
 | Agent | Nachricht | Angebot | Teilbares Ergebnis |
 |---|---|---|---|
-| A · Vertrieb | N1 | 5 Warnsignale | PDF, braucht öffentlichen Link |
-| B · Geschäftsführung | N2 | 3 Engpass-Fragen | PDF, braucht öffentlichen Link |
-| C · Preisdruck | N4 | Gesprächs-Check | Tally-Link (öffentlich) |
+| A · Vertriebsleitung (CSO, VP Sales, Vertriebsleiter) | N1 | 5 Warnsignale | PDF, braucht öffentlichen Link |
+| B · Geschäftsführung (GF, CEO, Inhaber) | N2 | 3 Engpass-Fragen | PDF, braucht öffentlichen Link |
+N4 + Gesprächs-Check kommen erst in einen Agenten, wenn der Check nachweislich ausgefüllt wird.
 Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird als `zielgruppe-indeal.md` vorausgefüllt.
 
 ## Was schon steht
@@ -79,8 +79,7 @@ Arbeitsblatt dafür: Vorlage „Zielgruppe vorbereiten“ (Lars Krüger), wird a
 - LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
 - N3: Mehrwert-Asset fehlt noch
 - Calendly: 3 Termine je Ergebnis einrichten (Michael), in Tally und Folge-Mails „Wachstumsanalyse“ durch „Engpass-Check“ ersetzen
-- Tally: Wird Name/LinkedIn abgefragt? Sonst lässt sich ein ausgefüllter Check keinem Lead zuordnen
+- Gesprächs-Check: Fragen und Messaging auf Conversion prüfen (0 von ca. 100 Aufrufen ausgefüllt). Tally fragt E-Mail ab: Wann, vor oder nach dem Ergebnis?
+- N4: Baustein 3 mit Distributor-Fall statt eigener KAM-Geschichte, zusammen mit dem Check überarbeiten
 - Öffentliche Links für die PDFs 5 Warnsignale und 3 Engpass-Fragen
-- N1 und PDF 5 Warnsignale sprechen von „toten Deals“, die neue Regel sagt „Aufträge statt Deals“: klären
-- Agenten: 2 oder 3 zum Start, Abgrenzung zwischen B und C (beide GF)
 - linkedin-brand: Zielgruppe korrigiert (Zweig claude/trusting-dijkstra-rxer2m), muss noch in die Hauptversion übernommen werden
