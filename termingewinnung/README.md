@@ -23,6 +23,7 @@ Texte, Grafiken und Markenregeln liegen im Repository [linkedin-brand](https://g
 - **12 Engpass-Checks pro Monat = 3 pro Woche**
 - **30 Minuten pro Tag** für Michael: Antworten auf ein Ja, Termine, Zahlen. Vernetzen, Erstnachricht und erstes Nachfassen übernimmt der inDeal-Agent.
 - Rückwärts gerechnet (Schätzwerte, nach 2 Wochen mit echten Zahlen prüfen): 100 Anfragen → ca. 35 Kontakte → ca. 9 Ja → ca. 3 Termine pro Woche
+- Abgleich mit Benchmark (nur jede 10. Antwort ein klares Ja): aus 100 neuen Anfragen realistisch 1–2 Termine. Rest über bestehende Kontakte, Gesprächs-Check und Posts. Details: [kampagne-inDeal.md](kampagne-inDeal.md)
 
 ## Werkzeuge
 | Werkzeug | Aufgabe |
@@ -77,7 +78,8 @@ Arbeitsblatt (vorausgefüllt, mit [DU]/[PRÜFEN]-Stellen): [zielgruppe-indeal.md
 - Später: eigene Calendly-Kopie für Agent B (die 3 Fragen kämen sonst doppelt), Bestätigungs-Mail anpassen
 - Zielkunden-Liste: Lead-Listen im Sales Navigator anlegen (Filter in zielgruppe-indeal.md)
 - Arbeitsblatt: [DU]- und [PRÜFEN]-Stellen ausfüllen (Websites, PDF-Links, Avatar-Sätze, Preise, Ablauf Engpass-Check)
-- Tracking der Kennzahlen
+- Tracking: freitags Annahmequote, Antwortquote, positive Antworten, Engpass-Checks je Agent (Benchmarks in kampagne-inDeal.md)
+- inDeal: Blacklist, Termin-Zeitfenster, Sprachnachrichten aufnehmen
 - LinkedIn-Profil, Berufserfahrung IPG: „20 direkten und indirekten Reports“ ändern in „15 direkte, 30 insgesamt“ (N2 und Info-Text stimmen bereits)
 - N3: Mehrwert-Asset fehlt noch
 - Calendly: 3 Termine je Ergebnis einrichten (Michael), in Tally und Folge-Mails „Wachstumsanalyse“ durch „Engpass-Check“ ersetzen
