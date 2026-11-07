@@ -72,9 +72,9 @@ Ohne Notiz (neue Leads). Bestehende Kontakte bekommen keine.
 ### Sprachnachricht (Pflicht, ohne sie nicht starten)
 Ca. 25 Sekunden. Langsam sprechen, lächeln, kein Ablesen-Ton. Am Schreibtisch aufnehmen, nicht im Auto.
 
-**Agent A · Vertriebsleitung**
+**Agent A · Vertriebsleitung** (für bestehende Kontakte, ohne „Danke fürs Vernetzen“)
 ```text
-Hallo, hier ist Michael Lee. Danke fürs Vernetzen.
+Hallo, hier ist Michael Lee. Wir sind ja schon eine Weile hier vernetzt.
 Ich war selbst zwanzig Jahre im Vertrieb in der Industrie, unter anderem als stellvertretender Vertriebsleiter Europa.
 Ein Muster sehe ich gerade bei vielen Vertriebsleitern: Die Pipeline ist voll, aber die Angebote werden nicht entschieden.
 Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
