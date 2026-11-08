@@ -87,6 +87,23 @@ Ich arbeite mit Geschäftsführern in Produktion und Logistik, und ein Satz fäl
 Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
 ```
 
+### Sprachnachricht in Sie-Form (Wunsch Michael, 08.11.2026, gilt für alle Leads)
+
+**Agent A · Vertriebsleitung**
+```text
+Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt.
+Ich war selbst zwanzig Jahre im Vertrieb in der Industrie, unter anderem als stellvertretender Vertriebsleiter Europa.
+Ein Muster sehe ich gerade bei vielen Vertriebsleitern: Die Pipeline ist voll, aber die Angebote werden nicht entschieden.
+Ich habe Ihnen dazu eine kurze Frage geschrieben. Schauen Sie gern mal rein. Bis bald.
+```
+
+**Agent B · Geschäftsführung**
+```text
+Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt.
+Ich arbeite mit Geschäftsführern in Produktion und Logistik, und einen Satz höre ich dabei immer wieder: Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.
+Ich habe Ihnen dazu eine kurze Frage geschrieben. Schauen Sie gern mal rein. Bis bald.
+```
+
 ### Videobotschaft (optional, ca. 45 Sekunden)
 Hochformat, Blick in die Kamera, am Schreibtisch, Licht von vorne (Fenster). Sofort mit dem ersten Satz anfangen. Untertitel einblenden, viele schauen ohne Ton.
 
