@@ -67,6 +67,13 @@ inDeal erlaubt **genau ein kostenfreies Angebot je Agent**. Start mit zwei Agent
 N4 + Gesprächs-Check kommen erst in einen Agenten, wenn der Check nachweislich ausgefüllt wird.
 Arbeitsblatt (vorausgefüllt, mit [DU]/[PRÜFEN]-Stellen): [zielgruppe-indeal.md](zielgruppe-indeal.md) · Datei für die Agenten-Quellen: [agent-wissen/referenzen.md](agent-wissen/referenzen.md)
 
+## Dateien für inDeal
+- [zielgruppe-indeal.md](zielgruppe-indeal.md): Arbeitsblatt (7 Schritte, Wissen, Briefing)
+- [kampagne-inDeal.md](kampagne-inDeal.md): Leads, Blacklist, Sprachnachricht, Nachfassen, Benchmarks
+- [nachrichten-agenten-v2.md](nachrichten-agenten-v2.md): Standardnachrichten A und B
+- [reaktionen-inDeal.md](reaktionen-inDeal.md): Reaktionen im Reiter Antworten, Testgespräch
+- [vorlagen/](vorlagen/): Kursunterlagen Lars Krüger (Baukasten, Checkliste, Arbeitsblatt, Spickzettel)
+
 ## Was schon steht
 - Profil umgestellt (Banner, Info, siehe [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md))
 - 4 Erstnachrichten + Nachfass-Texte
