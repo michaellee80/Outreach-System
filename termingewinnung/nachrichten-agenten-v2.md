@@ -30,7 +30,7 @@ Bei einem Laser-Hersteller stieg die Quote von Angebot zu Auftrag in sechs Monat
 Soll ich Dir die 5 Warnsignale schicken, an denen Du tote Deals früh erkennst?
 ```
 
-### A-Test · Schmerz Forecast statt Pipeline – 72T Wörter
+### A-Test · Schmerz Forecast statt Pipeline – 62 Wörter
 ```text
 Hallo {Vorname}, wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
 
@@ -56,7 +56,7 @@ Bei einem Laser-Hersteller lag die Forecast-Zuverlässigkeit nach sechs Monaten 
 Soll ich Dir die 3 Fragen schicken, mit denen Du Deinen Engpass in 10 Minuten eingrenzt?
 ```
 
-### B-Test · Schmerz „Alles landet bei Dir“ – 65T Wörter
+### B-Test · Schmerz „Alles landet bei Dir“ – 77 Wörter
 ```text
 Hallo {Vorname}, wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
 
