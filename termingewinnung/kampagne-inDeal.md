@@ -87,21 +87,23 @@ Ich arbeite mit Geschäftsführern in Produktion und Logistik, und ein Satz fäl
 Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
 ```
 
-### Sprachnachricht in Sie-Form (Wunsch Michael, 08.11.2026, gilt für alle Leads)
+### Sprachnachricht in Sie-Form (entschieden 08.11.2026, gilt für alle Leads)
+Inhalt = Standardnachricht des Agenten, gesprochen. Kein Satz über Michael selbst. Zahlen ausgeschrieben, damit sie sich gut sprechen lassen.
 
-**Agent A · Vertriebsleitung**
+**Agent A · Vertriebsleitung** (ca. 25 Sekunden)
 ```text
-Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt.
-Ich war selbst zwanzig Jahre im Vertrieb in der Industrie, unter anderem als stellvertretender Vertriebsleiter Europa.
-Ein Muster sehe ich gerade bei vielen Vertriebsleitern: Die Pipeline ist voll, aber die Angebote werden nicht entschieden.
-Ich habe Ihnen dazu eine kurze Frage geschrieben. Schauen Sie gern mal rein. Bis bald.
+Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
+Viele Vertriebsleiter in der Industrie haben gerade eine volle Pipeline, aber Angebote, die einfach nicht entschieden werden, oder?
+Bei einem Laser-Hersteller stieg die Quote von Angebot zu Auftrag in sechs Monaten von dreizehn auf über fünfzig Prozent. Nicht durch mehr Aktivität, sondern durch frühere Qualifizierung.
+Soll ich Ihnen die fünf Warnsignale schicken, an denen Sie tote Deals früh erkennen? Ein kurzes Ja reicht.
 ```
 
-**Agent B · Geschäftsführung**
+**Agent B · Geschäftsführung** (ca. 22 Sekunden)
 ```text
-Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt.
-Ich arbeite mit Geschäftsführern in Produktion und Logistik, und einen Satz höre ich dabei immer wieder: Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.
-Ich habe Ihnen dazu eine kurze Frage geschrieben. Schauen Sie gern mal rein. Bis bald.
+Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
+Viele Geschäftsführer in Produktion und Logistik merken gerade, dass der Umsatz zwar kommt, aber kaum noch planbar ist, oder?
+Bei einem Laser-Hersteller lag die Forecast-Zuverlässigkeit nach sechs Monaten bei über achtzig Prozent. Die Produktion konnte wieder planen.
+Soll ich Ihnen die drei Fragen schicken, mit denen Sie Ihren Engpass in zehn Minuten eingrenzen? Ein kurzes Ja reicht.
 ```
 
 ### Videobotschaft (optional, ca. 45 Sekunden)
