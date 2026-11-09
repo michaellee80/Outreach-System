@@ -70,18 +70,18 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 
 ### 5. Aha-Messaging
 - **Hebel:** Quantifizierter Mix (Schmerz: volle Pipeline ohne Aufträge, plus Zahl aus einem echten Fall)
-- **Die eine Botschaft:** *Eure Pipeline ist nicht zu leer. Sie ist zu voll mit Angeboten, die nie entschieden werden.*
+- **Die eine Botschaft:** *Ihre Pipeline ist nicht zu leer. Sie ist zu voll mit Angeboten, die nie entschieden werden.*
 
 ### 6. Kostenfreies Angebot
 - **Titel:** 5 Warnsignale für tote Deals
 - **Typ:** Checkliste (PDF, 1 Seite)
-- **Satz für die Nachricht:** „Soll ich Dir die 5 Warnsignale schicken, an denen wir tote Deals früh erkannt haben?“
+- **Satz für die Nachricht:** „Soll ich Ihnen die 5 Warnsignale schicken, an denen Sie tote Deals früh erkennen?“
 - **Warum es passt:** Sofort auf die eigene Pipeline anwendbar und ohne Vorwurf an den Leser: Es geht um die Deals, nicht um seine Arbeit. Es stammt aus Deinen Qualifizierungs-Kriterien (Gate 1 + 2).
 
 ### 7. Türöffner-Fragen
-- „Habt Ihr gerade mehr Angebote draußen, als realistisch entschieden werden?“
-- „Ist ein unzuverlässiger Forecast bei Euch gerade überhaupt ein Thema?“
-- „Plant Eure Produktion nach dem Vertriebs-Forecast?“
+- „Haben Sie gerade mehr Angebote draußen, als realistisch entschieden werden?“
+- „Ist ein unzuverlässiger Forecast bei Ihnen gerade überhaupt ein Thema?“
+- „Plant Ihre Produktion nach dem Vertriebs-Forecast?“
 
 *Faustregel aus der Vorlage: Der Markt für Vertriebsberatung ist umkämpft → in Vorleistung gehen (Checkliste) statt nur fragen. Deshalb ist die Türöffner-Frage hier Reserve, das Angebot steht im Vordergrund.*
 
@@ -89,7 +89,7 @@ Vorlage: Arbeitsblatt „Zielgruppe vorbereiten“ (Lars Krüger · LinkedIn Sal
 - **Kostenfreies Angebot:** 5 Warnsignale für tote Deals
 - **Teilbares Ergebnis:** https://drive.google.com/file/d/1NG8aztAZrFVolBqsHvlIPXyI4XVvcf1A/view?usp=drive_link (öffentlich, Betrachter, geprüft 07.11.2026)
 - **Hauptproblem:** Volle Pipeline, aber Angebote werden nicht entschieden
-- **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
+- **Anrede:** Sie · **Sprache:** Deutsch · **Begrüßung:** Hallo (KI-Variable „Begrüßung“ ergibt „Hallo Herr/Frau Nachname“)
   *Siezt die Person in ihren Beiträgen oder im Profil, dann Sie (Regel aus nachrichten.md). [PRÜFEN: Kann inDeal das automatisch? Sonst diese Kontakte von Hand anschreiben.]*
 
 ---
@@ -151,14 +151,14 @@ Aus „Zielgruppe & Markt“ v1.1 (geprüft 07.11.2026).
 ### 6. Kostenfreies Angebot
 - **Titel:** 3 Fragen, die Deinen Engpass eingrenzen
 - **Typ:** 10-Minuten-Check (PDF, 1 Seite)
-- **Satz für die Nachricht:** „Soll ich Dir die 3 Fragen schicken, mit denen Du Deinen Engpass in 10 Minuten eingrenzt?“
-- **Begleittext beim Verschicken:** „Hier sind die 3 Fragen. Nimm Dir 10 Minuten, ehrlich beantwortet. Bei welcher bist Du am längsten hängen geblieben?“
+- **Satz für die Nachricht:** „Soll ich Ihnen die 3 Fragen schicken, mit denen Sie Ihren Engpass in 10 Minuten eingrenzen?“
+- **Begleittext beim Verschicken:** „Hier sind die 3 Fragen. Nehmen Sie sich 10 Minuten, ehrlich beantwortet. Bei welcher Frage sind Sie am längsten hängen geblieben?“
 - **Warum es passt:** Kein Test mit Note, sondern Denkanstoß. Die Rückfrage („Bei welcher …?“) öffnet das Gespräch zum Termin.
 
 ### 7. Türöffner-Fragen
-- „Landen bei Dir gerade wieder mehr Entscheidungen, als Dir lieb ist?“
-- „Wächst Ihr gerade schneller, als Eure Struktur mitkommt?“
-- „Ist planbares Wachstum bei Euch gerade überhaupt ein Thema?“
+- „Landen bei Ihnen gerade wieder mehr Entscheidungen, als Ihnen lieb ist?“
+- „Wachsen Sie gerade schneller, als Ihre Struktur mitkommt?“
+- „Ist planbares Wachstum bei Ihnen gerade überhaupt ein Thema?“
 
 **Signale für den Bezug (KI-Variable „Signal-Bezug“)** aus „Zielgruppe & Markt“: neue Halle oder neuer Standort · neue Stellen, vor allem im Vertrieb · neuer Markt · Verlust eines großen Kunden · neuer Geschäftsführer · Wachstum, das die Organisation überfordert.
 
@@ -167,7 +167,7 @@ Aus „Zielgruppe & Markt“ v1.1 (geprüft 07.11.2026).
 - ⚠️ **Doppelung:** Dieselben 3 Fragen kommen nach der Buchung noch einmal per Calendly-Mail. Lösung offen (eigener Calendly-Termin für Agent B oder neue Vorbereitungsfragen).
 - **Teilbares Ergebnis:** https://drive.google.com/file/d/1zzQFJi0vE-MprVeZoB7gG9uk3mxZW4z-/view?usp=drive_link (öffentlich, Betrachter, geprüft 07.11.2026)
 - **Hauptproblem:** Immer mehr Entscheidungen landen wieder beim Geschäftsführer
-- **Anrede:** Du · **Sprache:** Deutsch · **Begrüßung:** Hallo
+- **Anrede:** Sie · **Sprache:** Deutsch · **Begrüßung:** Hallo (KI-Variable „Begrüßung“ ergibt „Hallo Herr/Frau Nachname“)
 
 ---
 
@@ -185,7 +185,7 @@ Kurzfassung, Ausbau erst nach den Testergebnissen von Gesprächs-Check v2:
 ## Regeln (wörtlich übernehmen)
 ```text
 - Das kostenlose Gespräch heißt immer „Engpass-Check“ (30 Minuten, kostenlos, ohne Folien). Nie „Erstgespräch“, „Kennenlerngespräch“, „Wachstumsanalyse“ oder „kostenlose Beratung“.
-- Du/Dein/Dir und Ihr/Euer immer groß. Siezt die Person, dann Sie.
+- Alle Leads werden gesiezt: Sie, Ihnen, Ihr. Auch wenn der Lead duzt, bleibt der Agent beim Sie. Ein Wechsel zum Du macht nur Michael persönlich.
 - Kurze Sätze. Unter 80 Wörter pro Nachricht. Eine Frage pro Nachricht.
 - Kundenergebnisse immer einem konkreten Fall zuordnen, nie als Versprechen. Nie behaupten, dass Ergebnisse bei jedem Kunden so eintreten.
 - Externe Zahlen nur: Gartner (über 5 Entscheider → Abschlusswahrscheinlichkeit unter 31 %), Forrester 2024 (13 Beteiligte), 6Sense 2025 (ca. 10 Personen).
@@ -202,22 +202,22 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 |---|---|
 | „Haben schon einen Berater/Dienstleister.“ | „Verstehe. Was hat in der Zusammenarbeit bisher konkret funktioniert, und wo hakt es noch?“ |
 | „Noch ein Berater bringt uns nichts.“ | „Kann ich gut nachvollziehen. Was hat beim letzten Mal gefehlt: die Idee oder die Umsetzung?“ |
-| „Kein Budget.“ | „Der Engpass-Check kostet nichts. 30 Minuten, danach weißt Du, wo es klemmt, ob mit Michael oder ohne.“ |
-| „Später / gerade keine Zeit.“ | „Klar. Welche Themen kosten Dich im Moment am meisten Zeit?“ |
+| „Kein Budget.“ | „Der Engpass-Check kostet nichts. 30 Minuten, danach wissen Sie, wo es klemmt, ob mit Michael oder ohne.“ |
+| „Später / gerade keine Zeit.“ | „Verstehe. Welche Themen kosten Sie im Moment am meisten Zeit?“ |
 | „Das ist nur eine Phase.“ | „Seit wann fühlt es sich wie eine Phase an?“ |
-| „Wir müssen das erst intern klären.“ | „Macht Sinn. Wenn Ihr das schon ein paar Mal besprochen habt: Was hat sich seitdem im Alltag verändert?“ |
+| „Wir müssen das erst intern klären.“ | „Verstehe. Wenn Sie das schon ein paar Mal besprochen haben: Was hat sich seitdem im Alltag verändert?“ |
 | „Wir haben eigentlich gute Leute.“ | „Davon gehe ich aus. Die Frage ist meist, ob das System sie gut arbeiten lässt.“ |
-| „Wir müssen einfach den Vertrieb verbessern.“ | „Wenn Ihr morgen doppelt so viele Anfragen hättet: Könnte Euer Team sie sauber bearbeiten?“ |
-| „Wir brauchen eher eine neue Strategie.“ | „Welche Strategie habt Ihr vor zwei Jahren beschlossen, und wie viel davon ist heute umgesetzt?“ |
-| „Aktuell nicht mein Thema.“ | „Alles klar, danke für die ehrliche Antwort. Darf ich fragen, was gerade Thema Nummer eins bei Euch ist?“ (danach nicht nachhaken) |
-| „Wir sind gut aufgestellt.“ | „Freut mich. Woran merkt Ihr das am deutlichsten: an der Abschlussquote oder am Forecast?“ |
-| „Schick mir mal Infos.“ | Asset schicken, dann: „Bei welchem Punkt bist Du hängen geblieben?“ |
+| „Wir müssen einfach den Vertrieb verbessern.“ | „Wenn Sie morgen doppelt so viele Anfragen hätten: Könnte Ihr Team sie sauber bearbeiten?“ |
+| „Wir brauchen eher eine neue Strategie.“ | „Welche Strategie haben Sie vor zwei Jahren beschlossen, und wie viel davon ist heute umgesetzt?“ |
+| „Aktuell nicht mein Thema.“ | „Alles klar, danke für die ehrliche Antwort. Darf ich fragen, was gerade Thema Nummer eins bei Ihnen ist?“ (danach nicht nachhaken) |
+| „Wir sind gut aufgestellt.“ | „Freut mich. Woran merken Sie das am deutlichsten: an der Abschlussquote oder am Forecast?“ |
+| „Schicken Sie mir mal Infos.“ | Asset schicken, dann: „Bei welchem Punkt sind Sie hängen geblieben?“ |
 
 ## FAQ
 | Frage | Antwort |
 |---|---|
 | Was kostet der Engpass-Check? | Nichts. 30 Minuten, kostenlos, ohne Folien. |
-| Was passiert im Engpass-Check? | Michael stellt Fragen, Du bekommst eine klare Einschätzung, welcher Engpass Euer Wachstum gerade am stärksten bremst und welcher Hebel als Nächstes zählt. Kein Pitch, keine Folien. Nach der Buchung kommen 3 kurze Fragen per E-Mail, 5 Minuten Nachdenken, keine schriftlichen Antworten. |
+| Was passiert im Engpass-Check? | Michael stellt Fragen, Sie bekommen eine klare Einschätzung, welcher Engpass Ihr Wachstum gerade am stärksten bremst und welcher Hebel als Nächstes zählt. Kein Pitch, keine Folien. Nach der Buchung kommen 3 kurze Fragen per E-Mail, 5 Minuten Nachdenken, keine schriftlichen Antworten. |
 | Was kommt danach? | Nur wenn es passt, ein weiterer gemeinsamer Schritt. Sieht Michael keinen sinnvollen nächsten Schritt, sagt er das klar. |
 | Was kostet eine Zusammenarbeit? | Das hängt vom Engpass ab und wird im Engpass-Check besprochen. Keine Preise nennen. Einzige Ausnahme: Marktchancen-Radar, 97 €, 30 Min. live. |
 | Wie lange dauert eine Zusammenarbeit? | In den dokumentierten Fällen 4–6 Monate. |
@@ -230,6 +230,7 @@ Grundsatz aus „Zielgruppe & Markt“: Einwände werden nicht überzeugt, sonde
 - Arbeit mit Startups in der Frühphase oder Einzelunternehmern ohne Team
 
 ## Ablauf des Engpass-Checks (Text der Calendly-Buchungsseite, Stand 07.11.2026)
+⚠️ Die Buchungsseite steht noch in Du-Form. Der Agent gibt den Inhalt in Sie-Form wieder (siehe FAQ).
 ```text
 Was in diesen 30 Minuten passiert:
 Ich stelle Dir Fragen. Du bekommst eine klare Einschätzung, welcher Engpass Dein Wachstum aktuell am stärksten bremst und welcher Hebel als Nächstes zählt.

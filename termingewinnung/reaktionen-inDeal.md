@@ -8,7 +8,7 @@ Regeln und Einwände: [zielgruppe-indeal.md](zielgruppe-indeal.md), Teil B. Text
 ---
 
 ## 1. Ton und Grenzen (gilt für alle Reaktionen)
-- **Anrede:** wie der Lead schreibt. Siezt er, dann Sie. Duzt er oder ist unklar, dann Du.
+- **Anrede:** immer Sie (Entscheidung 09.11.2026). Bietet der Lead selbst das Du an, darfst Du persönlich wechseln, nicht der Agent.
 - **Keine Preise nennen**
 - **Gespräch beenden nach 2 Einwänden**
 - Das kostenlose Gespräch heißt immer **„Engpass-Check“**. Nie „Erstgespräch“, „Beratung“, „Wachstumsanalyse“.
@@ -32,27 +32,27 @@ Regeln und Einwände: [zielgruppe-indeal.md](zielgruppe-indeal.md), Teil B. Text
 ### Positiv
 | Feld | Eintrag |
 |---|---|
-| Beispielantwort | „Ja, gern, schick mal rüber.“ |
-| Aktion des Agenten | `Teilbares Ergebnis + 2 Termine Di/Do. Max. 3 Sätze` |
+| Beispielantwort | „Ja, gern, schicken Sie mal rüber.“ |
+| Aktion des Agenten | `Teilbares Ergebnis + 2 Termine Di/Do. Max. 3 Sätze, Sie` |
 | Zielstatus | Gespräch läuft |
 | Vorlage (optional) | siehe unten |
 
 Vorlage Agent A:
 ```text
 Gern, hier sind die 5 Warnsignale: {Teilbares Ergebnis}
-Geh damit einmal durch Eure fünf größten offenen Angebote. Wenn Du magst, schauen wir danach 30 Minuten im kostenlosen Engpass-Check drauf: {Termin 1} oder {Termin 2}?
+Gehen Sie damit einmal durch Ihre fünf größten offenen Angebote. Wenn Sie mögen, schauen wir danach 30 Minuten im kostenlosen Engpass-Check gemeinsam drauf: {Termin 1} oder {Termin 2}?
 ```
 Vorlage Agent B:
 ```text
 Gern, hier sind die 3 Fragen: {Teilbares Ergebnis}
-Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kostenlosen Engpass-Check drauf: {Termin 1} oder {Termin 2}?
+Nehmen Sie sich 10 Minuten dafür. Wenn Sie mögen, schauen wir danach 30 Minuten im kostenlosen Engpass-Check gemeinsam drauf: {Termin 1} oder {Termin 2}?
 ```
 *Die Platzhalter in geschweiften Klammern ersetzt inDeal. Wie sie dort genau heißen, siehst Du im Editor über „Variablen-Namen zeigen“. Lieber leer lassen als falsch benennen: Dann schreibt der Agent den Entwurf selbst nach der Aktion.*
 
 ### Frage
 | Feld | Eintrag |
 |---|---|
-| Beispielantwort | „Was genau machst Du denn?“ / „Worum geht es?“ |
+| Beispielantwort | „Was genau machen Sie denn?“ / „Worum geht es?“ |
 | Aktion des Agenten | `Kurz antworten aus FAQ, dann Engpass-Check anbieten` |
 | Zielstatus | Gespräch läuft |
 | Vorlage | leer (Agent nutzt FAQ aus Teil B) |
@@ -68,10 +68,10 @@ Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kost
 ### Später
 | Feld | Eintrag |
 |---|---|
-| Beispielantwort | „Gerade schlecht, melde Dich in drei Monaten.“ |
+| Beispielantwort | „Gerade schlecht, melden Sie sich in drei Monaten.“ |
 | Aktion des Agenten | `Bedanken, Teilbares Ergebnis anbieten, kein Druck` |
 | Zielstatus | Später kontaktieren (Wiedervorlage in 3 Monaten) |
-| Vorlage | „Alles klar, danke für die ehrliche Antwort. Soll ich Dir bis dahin die {5 Warnsignale / 3 Fragen} schicken? Dann hast Du sie, wenn das Thema hochkommt.“ |
+| Vorlage | „Alles klar, danke für die ehrliche Antwort. Soll ich Ihnen bis dahin die {5 Warnsignale / 3 Fragen} schicken? Dann haben Sie sie, wenn das Thema hochkommt.“ |
 
 ### Absage
 | Feld | Eintrag |
@@ -79,7 +79,7 @@ Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kost
 | Beispielantwort | „Kein Interesse.“ / „Aktuell nicht mein Thema.“ |
 | Aktion des Agenten | `Freundlich bedanken, keine Rückfrage, Gespräch beenden` |
 | Zielstatus | Kein Interesse |
-| Vorlage | „Danke Dir für die klare Antwort, {Vorname}. Alles Gute weiterhin!“ |
+| Vorlage | „Vielen Dank für die klare Antwort. Alles Gute weiterhin!“ |
 
 *Bewusst ohne Rückfrage: Wer klar absagt, soll nicht noch eine Frage bekommen. Das schützt Deinen Ruf in Deinem eigenen Netzwerk.*
 
@@ -102,7 +102,7 @@ Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kost
 | Beispielantwort | „Ich baue dafür gerade selbst eine Lösung mit KI.“ |
 | Aktion des Agenten | `Interesse zeigen, nicht konkurrieren, nach Engpass fragen` |
 | Zielstatus | Gespräch läuft |
-| Vorlage | „Spannend! Meine Erfahrung: Das Tracking ist selten das Problem, eher die Frage, was überhaupt in die Pipeline gehört. Wo hakt es bei Euch heute am meisten: Erfassung, Qualifizierung oder Nachverfolgung?“ |
+| Vorlage | „Spannend! Meine Erfahrung: Das Tracking ist selten das Problem, eher die Frage, was überhaupt in die Pipeline gehört. Wo hakt es bei Ihnen heute am meisten: Erfassung, Qualifizierung oder Nachverfolgung?“ |
 
 ### Weiterleitung an Kollegen
 | Feld | Eintrag |
@@ -116,7 +116,7 @@ Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kost
 | Feld | Eintrag |
 |---|---|
 | Woran erkennt der Agent sie? | Der Lead bezieht sich auf eine gemeinsame Vergangenheit, ein Projekt oder ein Treffen. |
-| Beispielantwort | „Hallo Michael, lange nicht gehört! Wie geht's Dir?“ |
+| Beispielantwort | „Hallo Michael, lange nicht gehört! Wie geht's Dir?“ (Lead duzt Michael privat) |
 | Aktion des Agenten | `Nicht automatisch antworten, an Michael übergeben` |
 | Zielstatus | Manuell bearbeiten |
 
@@ -129,12 +129,12 @@ Nimm Dir 10 Minuten dafür. Wenn Du magst, schauen wir danach 30 Minuten im kost
 | Test | Als Lead schreiben | Erwartung |
 |---|---|---|
 | Positiv | „Ja, gern.“ | Link zum teilbaren Ergebnis + zwei konkrete Termine Di/Do + Buchungslink |
-| Frage | „Was machst Du genau?“ | Kurze Antwort, kein Vortrag, Engpass-Check angeboten |
+| Frage | „Was machen Sie genau?“ | Kurze Antwort, kein Vortrag, Engpass-Check angeboten |
 | Einwand | „Haben schon einen Berater.“ | Rückfrage, kein Pitch |
 | Preis | „Was kostet das?“ | **Kein Preis**, Verweis auf kostenlosen Engpass-Check |
-| Später | „Melde Dich im Frühjahr.“ | Bedanken, Asset anbieten, kein Druck |
+| Später | „Melden Sie sich im Frühjahr.“ | Bedanken, Asset anbieten, kein Druck |
 | Absage | „Kein Interesse.“ | Ein Satz Dank, Ende |
 | Persönlich | „Hey Michael, wie geht's?“ | Keine automatische Antwort, Übergabe an Dich |
-| Sie | „Guten Tag Herr Lee, gern.“ | Antwort in Sie-Form |
+| Anrede | „Guten Tag Herr Lee, gern.“ | Antwort in Sie-Form, Begrüßung mit Nachname |
 
 **„Antworten senden“: Mit Freigabe** (mindestens die ersten 2 Wochen). Im Ernstfall prüfst Du jeden Entwurf und klickst **Freigeben**.

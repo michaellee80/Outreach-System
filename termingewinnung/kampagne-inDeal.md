@@ -45,7 +45,7 @@ Vor dem Start eintragen, bei Firmen immer die **Domain**. Vorlage: [agent-wissen
 ## 3. Reiter „Kampagne“
 
 ### Anrede
-Du. Kontakte, die erkennbar siezen, von Hand anschreiben (Regel aus nachrichten.md).
+**Sie, für alle Leads** (Entscheidung 09.11.2026). Briefing › Anrede = Sie, Begrüßung = Hallo. Im Text die KI-Variable „Begrüßung“ nutzen.
 
 ### Aufwärmen vor der ersten Nachricht
 | Aktion | Empfehlung | Warum |
@@ -64,28 +64,13 @@ Ohne Notiz (neue Leads). Bestehende Kontakte bekommen keine.
 
 | Variable | Agent | Ersatzwert, wenn nichts gefunden wird |
 |---|---|---|
-| {Thema} (Letzter Beitrag) | A | „ich bin über Dein Profil gestolpert“ statt „ich hatte Deinen Beitrag zu … gesehen“ |
+| {Thema} (Letzter Beitrag) | A | „ich bin über Ihr Profil gestolpert“ statt „ich hatte Ihren Beitrag zu … gesehen“ |
 | {Anlass} (Signal-Bezug) | B | „ich habe mir {Firma} angesehen“ |
 
-⚠️ **Lieber ein ehrlicher Ersatz als ein erfundener Bezug.** Schreibt der Agent „Dein Beitrag zu Lean Management“ und die Person hat nie darüber geschrieben, ist der Kontakt verbrannt.
+⚠️ **Lieber ein ehrlicher Ersatz als ein erfundener Bezug.** Schreibt der Agent „Ihr Beitrag zu Lean Management“ und die Person hat nie darüber geschrieben, ist der Kontakt verbrannt.
 
 ### Sprachnachricht (Pflicht, ohne sie nicht starten)
-Ca. 25 Sekunden. Langsam sprechen, lächeln, kein Ablesen-Ton. Am Schreibtisch aufnehmen, nicht im Auto.
-
-**Agent A · Vertriebsleitung** (für bestehende Kontakte, ohne „Danke fürs Vernetzen“)
-```text
-Hallo, hier ist Michael Lee. Wir sind ja schon eine Weile hier vernetzt.
-Ich war selbst zwanzig Jahre im Vertrieb in der Industrie, unter anderem als stellvertretender Vertriebsleiter Europa.
-Ein Muster sehe ich gerade bei vielen Vertriebsleitern: Die Pipeline ist voll, aber die Angebote werden nicht entschieden.
-Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
-```
-
-**Agent B · Geschäftsführung**
-```text
-Hallo, hier ist Michael Lee. Danke fürs Vernetzen.
-Ich arbeite mit Geschäftsführern in Produktion und Logistik, und ein Satz fällt mir dabei immer wieder auf: Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.
-Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
-```
+Aktuelle Fassung: v3 direkt darunter. Ältere Du-Fassungen sind entfernt (Entscheidung 09.11.2026: alle Leads werden gesiezt).
 
 ### Sprachnachricht v3 nach Leitfaden 204 (Sie-Form, 09.11.2026, gilt für alle Leads)
 Aufbau laut [Leitfaden 204](vorlagen/204-sprachnachricht-leitfaden.md): Einstieg · Bezug zur Textnachricht + **Extra-Gedanke** · Angebot als Frage. Ohne Namen, kein Satz über Michael, unter 45 Sekunden (ca. 60 Wörter).
@@ -105,39 +90,24 @@ Es ging um Wachstum, das kaum noch planbar ist. Mir ist dazu noch etwas eingefal
 Soll ich Ihnen die drei Fragen schicken, mit denen Sie diese Stelle in zehn Minuten eingrenzen?
 ```
 
-### Videobotschaft (optional, ca. 45 Sekunden)
-Hochformat, Blick in die Kamera, am Schreibtisch, Licht von vorne (Fenster). Sofort mit dem ersten Satz anfangen. Untertitel einblenden, viele schauen ohne Ton.
-
-**Agent A · Vertriebsleitung (bestehende Kontakte)**
-```text
-Hallo, Michael Lee hier. Wir sind ja schon eine Weile vernetzt, deshalb einfach mal kurz persönlich.
-Ich höre gerade von vielen Vertriebsleitern in der Industrie dasselbe: Die Pipeline ist voll. Die Angebote gehen raus. Und dann passiert nichts.
-Meistens liegt das nicht am Preis und nicht am Team. Sondern daran, dass zu viele Angebote im Spiel sind, die nie entschieden werden.
-Bei einem Laser-Hersteller haben wir die Pipeline von 200 auf 20 echte Verkaufschancen fokussiert. In sechs Monaten stieg die Quote von Angebot zu Auftrag von 13 auf über 50 Prozent.
-Ich habe die 5 Warnsignale zusammengefasst, an denen man solche Angebote früh erkennt. Wenn Du sie haben willst, schreib mir einfach ein kurzes Ja. Bis bald.
-```
-
-**Agent B · Geschäftsführung (neue Kontakte)**
-```text
-Hallo, Michael Lee hier. Danke fürs Vernetzen.
-Einen Satz höre ich von Geschäftsführern in Produktion und Logistik immer wieder: Eigentlich läuft vieles gut, aber irgendwie kommen wir nicht richtig voran.
-Und oft landen dann immer mehr Entscheidungen wieder beim Chef.
-Das ist selten ein Führungsproblem. Meist ist es ein Engpass in der Struktur. Ich kenne das von innen: Ich hatte selbst 15 direkte Reports und war der Engpass.
-Ich habe 3 Fragen aufgeschrieben, mit denen Du Deinen Engpass in 10 Minuten eingrenzt. Wenn Du sie willst, schreib mir einfach ein kurzes Ja. Bis bald.
-```
+### Videobotschaft
+Geparkt (Entscheidung 08.11.2026). Vor einer Nutzung neu schreiben: Sie-Form, ohne Satz über Michael, Aufbau wie Sprachnachricht v3.
 
 ### Nachfassen
-1. **Bump** nach 2–3 Tagen ohne Antwort: `{Vorname}? 🙂`
-2. **Follow-up mit neuem Gedanken** nach weiteren 3–4 Tagen:
-
-**Agent A**
+1. **Nachhaken** nach 2–3 Tagen ohne Antwort („{Vorname}? 🙂“ passt nicht zum Sie):
 ```text
-Ein Gedanke noch, {Vorname}: Nimm Eure fünf größten offenen Angebote. Bei wie vielen kennt Euer Vertrieb die Person, die das Budget freigibt? Die Antwort zeigt ziemlich schnell, wie belastbar Euer Forecast ist.
+{Begrüßung}, kurz nachgefragt: Ist das bei Ihnen gerade ein Thema?
+```
+2. **Follow-up mit neuem Gedanken** nach weiteren 3–4 Tagen. Bewusst ein anderer Gedanke als in der Sprachnachricht:
+
+**Agent A** (aus Warnsignal 5)
+```text
+{Begrüßung}, ein Gedanke noch: Wie viele Ihrer offenen Angebote haben einen vereinbarten nächsten Schritt mit Datum? Die Antwort zeigt ziemlich schnell, wie belastbar Ihr Forecast ist.
 ```
 
-**Agent B** (aus nachrichten.md)
+**Agent B** (aus Frage 2 der 3 Engpass-Fragen)
 ```text
-Ein Gedanke noch, {Vorname}: Wenn Ihr morgen doppelt so viele Anfragen hättet, könnte Euer Team die überhaupt sauber bearbeiten? Die Antwort zeigt meist schnell, ob der Engpass im Vertrieb liegt oder dahinter.
+{Begrüßung}, ein Gedanke noch: Welche Entscheidungen landen jede Woche wieder bei Ihnen? Fallen Ihnen sofort mehrere ein, bremst meist die Struktur, nicht das Team.
 ```
 
 Danach Schluss. Kein drittes Nachfassen.
@@ -149,7 +119,7 @@ Danach Schluss. Kein drittes Nachfassen.
 | Termine: Dauer | 30 Minuten |
 | Termine: Zeitfenster | Dienstag 9–12 Uhr und Donnerstag 9–12 Uhr (entschieden 07.11.2026) |
 | Nach positiver Antwort | PDF-Link + zwei konkrete Terminvorschläge (nie nur den Calendly-Link) |
-| Ton | Du-Form, ruhig, kurz, kein Pitch |
+| Ton | Sie-Form, ruhig, kurz, kein Pitch |
 | Grenzen | Keine Preise nennen · Ende nach 2 Einwänden · nie „Erstgespräch“, nur „Engpass-Check“ · keine Kundennamen |
 | Antworten senden | **Mit Freigabe** (mindestens die ersten 2 Wochen) |
 

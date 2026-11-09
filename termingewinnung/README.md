@@ -55,7 +55,7 @@ Quelle: [UPDATE-gespraechs-check.md](https://github.com/michaellee80/linkedin-br
 - **Externe Zahlen nur:** Gartner (über 5 Entscheider → Abschlusswahrscheinlichkeit unter 31 %), Forrester 2024 (13 Beteiligte), 6Sense 2025 (ca. 10 Personen).
 - **Kundenzahlen** immer einem Fall zuordnen, nie als Versprechen (Proof-Regel in [BRAND-SYSTEM.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/brand/BRAND-SYSTEM.md)).
 - „Aufträge/Abschlüsse“ statt „Deals“ in Texten an Kunden. **Ausnahme (entschieden 07.11.2026):** N1 und PDF „5 Warnsignale für tote Deals“ bleiben, das ist die Sprache der Vertriebsleiter.
-- Du/Dein/Ihr/Euer groß. Siezt die Person selbst, dann Sie.
+- **Alle Leads werden gesiezt** (Entscheidung 09.11.2026): Sie, Ihnen, Ihr. Begrüßung über die KI-Variable „Begrüßung“.
 - Unter 80 Wörter, nie direkt nach der Vernetzung pitchen, Vernetzung ohne Notiz.
 
 ## Agenten in inDeal (entschieden 07.11.2026)
