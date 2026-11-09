@@ -72,7 +72,13 @@ Arbeitsblatt (vorausgefüllt, mit [DU]/[PRÜFEN]-Stellen): [zielgruppe-indeal.md
 - [kampagne-inDeal.md](kampagne-inDeal.md): Leads, Blacklist, Sprachnachricht, Nachfassen, Benchmarks
 - [nachrichten-agenten-v2.md](nachrichten-agenten-v2.md): Standardnachrichten A und B
 - [reaktionen-inDeal.md](reaktionen-inDeal.md): Reaktionen im Reiter Antworten, Testgespräch
-- [vorlagen/](vorlagen/): Kursunterlagen Lars Krüger (Baukasten, Checkliste, Arbeitsblatt, Spickzettel)
+- [vorlagen/](vorlagen/): Kursunterlagen Lars Krüger, in der Reihenfolge der Nutzung:
+  - [201 Nachrichten-Baukasten](vorlagen/201-nachrichten-baukasten.md)
+  - [202 Zielgruppe vorbereiten](vorlagen/202-zielgruppen-vorbereitung.md)
+  - [203 Kampagnen-Checkliste + Benchmarks](vorlagen/203-kampagnen-checkliste.md)
+  - [204 Sprachnachricht-Leitfaden](vorlagen/204-sprachnachricht-leitfaden.md)
+  - [205 KI-Variablen-Beispiele](vorlagen/205-ki-variablen-beispiele.md)
+  - [206 Reaktionen-Spickzettel](vorlagen/206-reaktionen-spickzettel.md)
 
 ## Was schon steht
 - Profil umgestellt (Banner, Info, siehe [fokus-texte.md](https://github.com/michaellee80/linkedin-brand/blob/HEAD/linkedin/texte/fokus-texte.md))

@@ -1,6 +1,6 @@
 # Reaktionen in inDeal – Agent A und B (Entwurf 08.11.2026)
 
-Grundlage: [Reaktionen-Spickzettel](vorlagen/reaktionen-spickzettel.md) (Lars Krüger). Eintragen im Reiter **Antworten**. Gespeichert wird automatisch.
+Grundlage: [Reaktionen-Spickzettel](vorlagen/206-reaktionen-spickzettel.md) (Lars Krüger). Eintragen im Reiter **Antworten**. Gespeichert wird automatisch.
 Regeln und Einwände: [zielgruppe-indeal.md](zielgruppe-indeal.md), Teil B. Texte: [nachrichten-agenten-v2.md](nachrichten-agenten-v2.md).
 
 **Feld „Aktion des Agenten“: höchstens 60 Zeichen.** Alle Aktionen unten sind darauf gekürzt.
