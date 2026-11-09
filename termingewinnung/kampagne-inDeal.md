@@ -87,23 +87,22 @@ Ich arbeite mit Geschäftsführern in Produktion und Logistik, und ein Satz fäl
 Ich hab Dir dazu eine kurze Frage geschrieben. Schau gern mal rein. Bis bald.
 ```
 
-### Sprachnachricht in Sie-Form (entschieden 08.11.2026, gilt für alle Leads)
-Inhalt = Standardnachricht des Agenten, gesprochen. Kein Satz über Michael selbst. Zahlen ausgeschrieben, damit sie sich gut sprechen lassen.
+### Sprachnachricht v3 nach Leitfaden 204 (Sie-Form, 09.11.2026, gilt für alle Leads)
+Aufbau laut [Leitfaden 204](vorlagen/204-sprachnachricht-leitfaden.md): Einstieg · Bezug zur Textnachricht + **Extra-Gedanke** · Angebot als Frage. Ohne Namen, kein Satz über Michael, unter 45 Sekunden (ca. 60 Wörter).
+Hochladen: Kampagne › Schritt Sprachnachricht › Bearbeiten › „Datei hochladen“ (m4a, max. 59 Sek.) oder „Im Browser aufnehmen“.
 
-**Agent A · Vertriebsleitung** (ca. 25 Sekunden)
+**Agent A · Vertriebsleitung**
 ```text
-Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
-Viele Vertriebsleiter in der Industrie haben gerade eine volle Pipeline, aber Angebote, die einfach nicht entschieden werden, oder?
-Bei einem Laser-Hersteller stieg die Quote von Angebot zu Auftrag in sechs Monaten von dreizehn auf über fünfzig Prozent. Nicht durch mehr Aktivität, sondern durch frühere Qualifizierung.
-Soll ich Ihnen die fünf Warnsignale schicken, an denen Sie tote Deals früh erkennen? Ein kurzes Ja reicht.
+Guten Tag, hier ist Michael Lee. Ich habe Ihnen gerade geschrieben und wollte es noch kurz persönlich sagen.
+Es ging um Angebote, die einfach nicht entschieden werden. Mir ist dazu noch etwas eingefallen: Meistens fehlt nicht das Interesse beim Kunden, sondern die Person, die am Ende das Budget freigibt.
+Soll ich Ihnen die fünf Warnsignale schicken, an denen man das früh erkennt?
 ```
 
-**Agent B · Geschäftsführung** (ca. 22 Sekunden)
+**Agent B · Geschäftsführung**
 ```text
-Guten Tag, hier ist Michael Lee. Wir sind hier schon länger vernetzt, deshalb einfach mal direkt.
-Viele Geschäftsführer in Produktion und Logistik merken gerade, dass der Umsatz zwar kommt, aber kaum noch planbar ist, oder?
-Bei einem Laser-Hersteller lag die Forecast-Zuverlässigkeit nach sechs Monaten bei über achtzig Prozent. Die Produktion konnte wieder planen.
-Soll ich Ihnen die drei Fragen schicken, mit denen Sie Ihren Engpass in zehn Minuten eingrenzen? Ein kurzes Ja reicht.
+Guten Tag, hier ist Michael Lee. Ich habe Ihnen gerade geschrieben und wollte es noch kurz persönlich sagen.
+Es ging um Wachstum, das kaum noch planbar ist. Mir ist dazu noch etwas eingefallen: Oft liegt das gar nicht am Vertrieb, sondern an einer Stelle dahinter, die im Alltag keiner mehr sieht.
+Soll ich Ihnen die drei Fragen schicken, mit denen Sie diese Stelle in zehn Minuten eingrenzen?
 ```
 
 ### Videobotschaft (optional, ca. 45 Sekunden)
